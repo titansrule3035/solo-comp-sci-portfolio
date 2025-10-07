@@ -27,9 +27,9 @@ projects/Py-Prox/__init__.py
 projects/Py-Prox/.coverage
 
 # StringToBin
-projects/Binary_Compiler_Test_1/.vs
-projects/Binary_Compiler_Test_1/Binary_Compiler_Test_1/bin
-projects/Binary_Compiler_Test_1/Binary_Compiler_Test_1/obj
+projects/StringToBin/.vs
+projects/StringToBin/Binary_Compiler_Test_1/bin
+projects/StringToBin/Binary_Compiler_Test_1/obj
 
 # unity-c-sharp-inventory-system-test
 projects/unity-c-sharp-inventory-system-test/.idea
