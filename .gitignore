@@ -9,6 +9,28 @@ projects/CSharpToDoList/.vs
 projects/CSharpToDoList/CSharpToDoList/bin
 projects/CSharpToDoList/CSharpToDoList/obj
 
+# Py-Prox
+projects/Py-Prox/__pycache__
+projects/Py-Prox/venv
+projects/Py-Prox/pyprox.egg-info
+projects/Py-Prox/.vscode
+projects/Py-Prox/.pytest_cache
+projects/Py-Prox/.mypy_cache
+projects/Py-Prox/.idea
+projects/Py-Prox/.DS_Store
+projects/Py-Prox/.env
+projects/Py-Prox/.env.*
+projects/Py-Prox/*.pyc
+projects/Py-Prox/*.pyo
+projects/Py-Prox/*~
+projects/Py-Prox/__init__.py
+projects/Py-Prox/.coverage
+
+# StringToBin
+projects/StringToBin/.vs
+projects/StringToBin/StringToBin/bin
+projects/StringToBin/StringToBin/obj
+
 # unity-c-sharp-inventory-system-test
 projects/unity-c-sharp-inventory-system-test/.idea
 projects/unity-c-sharp-inventory-system-test/.vs
