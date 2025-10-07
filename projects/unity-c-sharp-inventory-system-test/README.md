@@ -125,9 +125,7 @@ This project is a comprehensive inventory and item management system for Unity, 
 
 ### Running the Application
 
-1. Clone the contents of this repository.
-2. Navigate to the  `Builds` folder.
-3. Run the `Inventory System Test Version 2.exe` file.
+Navigate to the [releases pages](https://github.com/titansrule3035/solo-comp-sci-portfolio/releases), find the release for this project, and run the `Inventory System test 2.exe` file. 
 
 ### **Debug Console:**
 Enable debug mode to use the in-game console.
