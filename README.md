@@ -26,6 +26,9 @@ Below is a curated list of projects, with links to their respective repositories
 **Technologies:** C#, .NET Framework, Unity Engine, INK API  
 **Highlights:** Easy-to-use inventory system with grab-and-drop based item functionality, item stacking, and item usage. The dialogue system is powered by the INK API, allowing for branching narratives and player choices. The debug system provides real-time feedback on game state and player actions.
 
+
+*(A release of all current builds can be found [here](https://github.com/titansrule3035/solo-comp-sci-portfolio/releases).)*
+
 ---  
 
 ## 🛠 Skills Demonstrated
