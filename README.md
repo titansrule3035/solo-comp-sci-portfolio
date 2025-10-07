@@ -33,9 +33,9 @@ Below is a curated list of projects, with links to their respective repositories
 
 ## 🛠 Skills Demonstrated
 
-Throughout these projects, I’ve applied skills in:
+Throughout all of the projects in this portfolio, I’ve applied skills in:
 
-* **Programming Languages:** C#
+* **Programming Languages:** C#, Python
 * **Tools & Platforms:** Git, GitHub, Windows 11, .NET 9, Unity Engine, INK API
 * **Computer Science Principles & Applications:**
 
