@@ -10,3 +10,6 @@
 [submodule "projects/Py-Prox"]
 	path = projects/Py-Prox
 	url = https://github.com/titansrule3035/Py-Prox.git
+[submodule "projects/StringToBin"]
+	path = projects/StringToBin
+	url = https://github.com/titansrule3035/StringToBin.git
