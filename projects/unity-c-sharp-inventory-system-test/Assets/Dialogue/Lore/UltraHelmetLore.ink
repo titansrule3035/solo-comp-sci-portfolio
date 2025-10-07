@@ -1,1 +1,0 @@
-I can't believe it's not Netherite™! (+3 DEF, +2 SPD, +2 JMP)

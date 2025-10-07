@@ -1,3 +1,0 @@
-Every kiss begins with Kay...
-But then again, so does kill. (+3 ATK, +1 SPD)
--> END
