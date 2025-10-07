@@ -1,4 +1,4 @@
-# PyProx
+# Py-Prox
 A simple **Python-based HTTP/HTTPS proxy server** with a **client test utility**.  
 The proxy supports **CONNECT tunneling** for HTTPS requests and relays normal HTTP requests.  
 
