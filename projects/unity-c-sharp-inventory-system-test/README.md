@@ -116,44 +116,48 @@ This project is a comprehensive inventory and item management system for Unity, 
 
 ---
 
-## Setup & Usage
 
-1. **Import Scripts:**  
-   Place all scripts in your Unity project's `Assets/Scripts` directory.
-2. **Scene Setup:**
-    - Add `InventoryManager`, `InventoryPage`, and `ItemDB` to your scene.
-    - Assign UI elements (TextMeshProUGUI, panels) in the inspector.
-3. **Player Integration:**  
-   Ensure your `Player` script exposes the required stat and sprite fields.
-4. **Debug Console:**  
-   Enable debug mode to use the in-game console.
+## Getting Started
+
+### Prerequisites
+
+* [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework) 9.0 or higher installed
+
+### Running the Application
+
+1. Clone the contents of this repository.
+2. Navigate to the  `Builds` folder.
+3. Run the `Inventory System Test Version 2.exe` file.
+
+### **Debug Console:**
+Enable debug mode to use the in-game console.
 
 ---
 
 ## Notes
 
- **Item IDs:**  
-  Each item is referenced by a unique integer ID. Use the console or ask for a list of IDs as needed.  
+**Item IDs:**  
+Each item is referenced by a unique integer ID.
 
-  | Item ID | Item Name      |  
+| Item ID | Item Name      |  
   |:-------:|----------------|  
-  |    0    | Empty          |  
-  |  12003  | Diamond Helmet |  
-  |  12002  | Gold Helmet    |  
-  |  12001  | Iron Helmet    |  
-  |  12004  | Ultra Helmet   |
-  |    1    | Apple          |
-  |    2    | Banana         |
-  |    3    | Grapes         |
-  |    4    | Lemon          |
-  |    5    | Lime           |
-  |    6    | Orange         |
-  |    7    | Pear           |
-  |    8    | Pineapple      |
-  | 192003  | Diamond Sword  |
-  | 192002  | Gold Sword     |
-  | 192001  | Iron Sword     |
-  | 192004  | Ultra Sword    |  
+|    0    | Empty          |  
+|  12003  | Diamond Helmet |  
+|  12002  | Gold Helmet    |  
+|  12001  | Iron Helmet    |  
+|  12004  | Ultra Helmet   |
+|    1    | Apple          |
+|    2    | Banana         |
+|    3    | Grapes         |
+|    4    | Lemon          |
+|    5    | Lime           |
+|    6    | Orange         |
+|    7    | Pear           |
+|    8    | Pineapple      |
+| 192003  | Diamond Sword  |
+| 192002  | Gold Sword     |
+| 192001  | Iron Sword     |
+| 192004  | Ultra Sword    |  
 
 - **Stack Limits:**  
   Each item has a maximum stack size, enforced by the system.

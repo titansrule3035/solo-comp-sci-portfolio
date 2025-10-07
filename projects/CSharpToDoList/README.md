@@ -46,9 +46,11 @@ is stored as an encrypted Base64 string in myTasks.txt. The program automaticall
 
 * .NET SDK installed
 
-### Running the Application
+### Building & Running the Application
 
-Simply clone the repository, navigate to the debug release, and run the CSharpToDoList.exe file.
+1. Open the solution in Visual Studio (or your .NET supported IDE).
+2. Build the project (`Ctrl+Shift+B`).
+3. Run the application (`F5`) and the calculator form will appear.
 
 ## Usage
 

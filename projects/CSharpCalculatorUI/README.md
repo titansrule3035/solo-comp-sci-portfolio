@@ -57,9 +57,9 @@ The custom parser evaluates this correctly as `15.0`, respecting parentheses, op
 * [Visual Studio](https://visualstudio.microsoft.com/) or any C# IDE that supports WinForms
 * [.NET Framework](https://dotnet.microsoft.com/download/dotnet-framework) installed
 
-### Running the Application
+### Building & Running the Application
 
-1. Open the solution in Visual Studio.
+1. Open the solution in Visual Studio (or your .NET supported IDE).
 2. Build the project (`Ctrl+Shift+B`).
 3. Run the application (`F5`) and the calculator form will appear.
 
