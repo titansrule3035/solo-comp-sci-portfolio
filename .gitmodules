@@ -7,3 +7,6 @@
 [submodule "projects/unity-c-sharp-inventory-system-test"]
 	path = projects/unity-c-sharp-inventory-system-test
 	url = https://github.com/titansrule3035/unity-c-sharp-inventory-system-test.git
+[submodule "projects/Py-Prox"]
+	path = projects/Py-Prox
+	url = https://github.com/titansrule3035/Py-Prox.git
