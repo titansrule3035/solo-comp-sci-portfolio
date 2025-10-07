@@ -8,19 +8,19 @@ Welcome to my **Computer Science Portfolio**, a collection of projects demonstra
 
 Below is a curated list of projects, with links to their respective repositories and highlights of the technologies used.  
 
-### 🔹 [C# To Do List](https://github.com/titansrule3035/solo-comp-sci-portfolio/tree/main/projects/CSharpToDoList)  
+### 🔹 [C# To Do List](https://github.com/titansrule3035/CSharpToDoList/tree/0907a9f26a461fba992c2ea96a643cb0f1c2e1f1)  
 
 **Description:** A simple C# "To-Do List" console application that stores data into a text file.  
 **Technologies:** C# .NET Framework, Microsoft Cryptography  
 **Highlights:** Filestream and cryptography, the save file is obfuscated and then encrypted to prevent outside sources from reading/writing to sensitive data.  
 
-### 🔹 [C# Calculator UI](https://github.com/titansrule3035/solo-comp-sci-portfolio/tree/main/projects/CSharpCalculatorUI)  
+### 🔹 [C# Calculator UI](https://github.com/titansrule3035/CSharpCalculatorUI/tree/e9f915962b7fa4dba5092158bfa4ccb042a7ff7a)  
 
 **Description:** A WinForms-based calculator application that supports full expression evaluation and floating-point numbers.  
 **Technologies:** C# .NET Framework, WinForms  
 **Highlights:** Supports addition, subtraction, multiplication, division, decimal numbers, and full expression parsing with operator precedence, using **a custom, in-house, algebraic expression parser**. The UI includes a fixed-size window and an intuitive button layout.  
 
-### 🔹 [Unity C# Inventory System Demo](https://github.com/titansrule3035/solo-comp-sci-portfolio/tree/main/projects/unity-c-sharp-inventory-system-test)    
+### 🔹 [Unity C# Inventory System Demo](https://github.com/titansrule3035/unity-c-sharp-inventory-system-test/tree/f1ee7239c24768bdc3e64a40f0ce5db88d826c52)
 
 **Description:** A demo "game" project in Unity showcasing a complete inventory system, dialogue system, debug system, and their interactions within a closed space.  
 **Technologies:** C#, .NET Framework, Unity Engine, INK API  
