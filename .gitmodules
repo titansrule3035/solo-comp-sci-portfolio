@@ -1,0 +1,3 @@
+[submodule "projects/CSharpToDoList"]
+	path = projects/CSharpToDoList
+	url = https://github.com/titansrule3035/CSharpToDoList.git
