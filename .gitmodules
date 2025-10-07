@@ -4,3 +4,6 @@
 [submodule "projects/CSharpCalculatorUI"]
 	path = projects/CSharpCalculatorUI
 	url = https://github.com/titansrule3035/CSharpCalculatorUI.git
+[submodule "projects/unity-c-sharp-inventory-system-test"]
+	path = projects/unity-c-sharp-inventory-system-test
+	url = https://github.com/titansrule3035/unity-c-sharp-inventory-system-test.git
